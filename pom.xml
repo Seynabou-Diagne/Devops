@@ -73,7 +73,7 @@
                     <version>2.2</version>
                     <configuration>
                         <update>true</update>
-                        <url>http://localhost:8060/manager/text</url>
+                        <url>http://localhost:8060/manager/html</url>
                         <server>TomcatServer</server>
                         <username>admin</username>
                         <password>passer</password>
